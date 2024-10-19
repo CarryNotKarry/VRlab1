@@ -1,15 +1,16 @@
 # README
 
+## 实验报告
+实验报告放在了个人博客[CarryNotKarry - carrynotkarry.com](carrynotkarry.com)，里面有对于框架、函数、实验结果的相关内容
+
 ## 目录结构
 
-在本目录中当前目录一共有七个文件，结构如下：
+在本目录中当前目录一共有三个文件，结构如下：
 
 ```bash
 .
 ├── main 						  # 方便查看代码
 ├── vrlab1_report.md  # 实验报告markdown形式
-├── mesh.mp4					# mesh运行实验结果视频
-├── pointcloud.mp4		# pointcloud运行实验结果视频
 └── README.md					# readme 本文件
 ```
 
