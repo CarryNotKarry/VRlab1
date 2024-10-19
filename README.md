@@ -1,7 +1,7 @@
 # README
 
 ## 实验报告
-实验报告放在了个人博客[CarryNotKarry - carrynotkarry.com](carrynotkarry.com)，里面有对于框架、函数、实验结果的相关内容
+实验报告放在了个人博客[CarryNotKarry-VRlab1](https://carrynotkarry.com/research/vtlab1/)，里面有对于框架、函数、实验结果的相关内容
 
 ## 目录结构
 
